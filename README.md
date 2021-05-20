@@ -15,7 +15,7 @@
 
 ## Overview
 
-<img src="./images/preview.png alt="">
+<img src="./images/preview.png" alt="">
 
 ### Built With
 
