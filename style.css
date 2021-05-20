@@ -78,7 +78,7 @@ ul {
   padding: 1.2rem 2.5rem;
   border: none;
   background: linear-gradient(to right top, #3c096c, #7b2cbf, #e0aaff);
-  transition: transform cubic-bezier(s0.215, 0.61, 0.355, 1) 0.5s;
+  transition: transform 0.5s ease;
   border-radius: 3rem;
   cursor: pointer;
 }
@@ -92,11 +92,11 @@ ul {
 }
 
 .btn-resume:hover {
-  transform: translateY(-3px);
+  transform: translateY(-5px);
 }
 
 .btn-resume:active {
-  transform: translateY(3px);
+  transform: translateY(5px);
 }
 /* HEADER */
 
